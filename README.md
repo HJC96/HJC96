@@ -2,7 +2,7 @@
 
 Hi, I'm a Backend Developer with 2 years of experience, passionate about building maintainable software.
 
-### Core Interests & Skills
+### Interests & Skills
 * **TDD**: I practice Test-Driven Development (TDD) and focus on writing clean and readable tests.
 * **Software Design**: Focused on **Object-Oriented Design** and **Domain-Driven Design (DDD)**.
 * **Database**: Experienced with relational databases like **MySQL** and **MariaDB** in production. Also a **Certified MongoDB Associate Developer**.
