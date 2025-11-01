@@ -1,7 +1,12 @@
-### ⏰ 시간을 신중하고 귀하게 사용하자 ⏰
-1. 계획되지 않은 시간은 나의 약점이 있는 곳으로 흐른다
-2. 계획되지 않은 시간은 내가 속한 영역에서 지배적인 위치에 있는 사람의 영향력에 의해 좌우된다
-3. 계획되지 않은 시간은 긴급한 일들에 소모된다
+## About Me
+
+Hi, I'm a Backend Developer with 2 years of experience, passionate about building maintainable software.
+
+### Core Interests & Skills
+* **TDD**: I practice Test-Driven Development (TDD) and focus on writing clean and readable tests.
+* **Software Design**: Focused on **Object-Oriented Design** and **Domain-Driven Design (DDD)**.
+* **Database**: Experienced with relational databases like **MySQL** and **MariaDB** in production. Also a **Certified MongoDB Associate Developer**.
+* **Contributions**: Open-source contributor, making **README updates** and **Javadoc improvements** in projects like `spring-framework`, `mongodb/mongo-java-driver`, and `spring-batch`.
 
 ### TimeLine
 - Backend Software Engineer(23.11.17~Present)
