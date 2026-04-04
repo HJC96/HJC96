@@ -5,8 +5,8 @@
 4. 계획되지 않은 시간은 대중의 갈채를 받는 일들에 바쳐지게 된다
 
 ### TimeLine
-- Embedded Software Engineer(~23.11.16)
 - Backend Software Engineer(23.11.17~Present)
+- Embedded Software Engineer(~23.11.16)
 
 <!--<img src="https://img.shields.io/badge/-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
