@@ -16,6 +16,6 @@
 - Embedded Software Engineer (21.10 ~ 23.11.16) @현대오토에버
 
 ### Certifications
-- Confluent Apache Kafka Fundamentals Accreditation *(2026.04)*
-- AWS Certified Solutions Architect – Associate *(2026.03)*
-- MongoDB Associate Developer *(2025.10)*
+- [Confluent Apache Kafka Fundamentals Accreditation](https://certificates.confluent.io/5469f32a-2817-4885-ae5c-5a4bf3f60b90) *(2026.04)*
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bbe2fad2-8edc-4fb5-8cd9-20b87d02aeb9/linked_in_profile) *(2026.03)*
+- [MongoDB Associate Developer](https://learn.mongodb.com/c/p27Rqg76SrCOVIbwaxkmDw) *(2025.10)*
