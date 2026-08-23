@@ -19,7 +19,7 @@
 - **캐시** — Cache Aside, Null Caching, TTL Jitter, Hot Key 방어 구현
 - **테스트 인프라** — Testcontainers 기반 동적 DB 설정과 ArchUnit 아키텍처 의존성 규칙 검증
 
-[전체 실험 목록 보기](https://github.com/HJC96/deep-dive)
+[deep-dive](https://github.com/HJC96/deep-dive)
 
 ---
 
