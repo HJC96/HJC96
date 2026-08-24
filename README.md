@@ -25,8 +25,9 @@
 
 ## 기록
 
-- [재고 감소부터 분산 트랜잭션까지](https://blog.naver.com/gkswlcjs2/224369322094)
 - [편집 충돌을 감지해서 Lost Update 막기](https://blog.naver.com/gkswlcjs2/224386963301)
+- [\[북 리뷰\] 자바/스프링 개발자를 위한 실용주의 프로그래밍](https://blog.naver.com/gkswlcjs2/224359725600)
+- [재고 감소부터 분산 트랜잭션까지](https://blog.naver.com/gkswlcjs2/224369322094)
 - [2025년, 만 2년차 백엔드 개발자 회고](https://blog.naver.com/gkswlcjs2/224130531699)
 
 [블로그에서 더 보기](https://blog.naver.com/gkswlcjs2)
