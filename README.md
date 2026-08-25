@@ -19,7 +19,7 @@
 - 동시성 제어 — 원자적 UPDATE, 비관적·낙관적 락, 네임드 락, Redis 분산 락, Lua
 - 분산 트랜잭션 — Monolith·MSA 기준선, 부분 커밋, 2PC, TCC
 - 캐시 — Cache Aside, Null Caching, TTL Jitter, Hot Key
-- 테스트 인프라 — Testcontainers, `@DynamicPropertySource`, ArchUnit
+- 테스트 인프라 — Testcontainers, @DynamicPropertySource, ArchUnit
 
 ---
 
