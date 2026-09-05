@@ -17,7 +17,7 @@
 백엔드 주제를 직접 실행해보기 위해 만든 코드들을 모아둔 저장소입니다. `labs/` 아래에 주제별 모듈을 두고 있습니다.
 
 - 동시성 제어 — 원자적 UPDATE, 비관적·낙관적 락, 네임드 락, Redis 분산 락, Lua
-- 분산 트랜잭션 — Monolith·MSA 기준선, 부분 커밋, 2PC, TCC
+- 분산 트랜잭션 — Monolith·MSA, 2PC, TCC, SAGA
 - 캐시 — Cache Aside, Null Caching, TTL Jitter, Hot Key
 - 테스트 인프라 — Testcontainers, @DynamicPropertySource, ArchUnit
 
